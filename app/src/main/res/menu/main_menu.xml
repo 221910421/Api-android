@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/profile"
+            android:icon="@drawable/ic_baseline_contact_phone_24"
+            android:title="Perfil"
+            />
+
+        <item android:id="@+id/contact"
+            android:icon="@drawable/ic_baseline_contact_phone_24"
+            android:title="Contacto"
+            />
+
+        <item android:id="@+id/presencia"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="Sitio de presencia"
+            />
+
+        <item android:id="@+id/plaza"
+            android:icon="@drawable/ic_baseline_apartment_24"
+            android:title="Plazas"
+            />
+        <item
+            android:id="@+id/item_usuarios"
+            android:icon="@drawable/ic_baseline_account_circle_24"
+            android:title="usuarios" />
+
+    </group>
+
+
+
+</menu>

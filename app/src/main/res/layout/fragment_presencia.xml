@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/azul"
+
+    tools:context=".PresenciaFragment">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Historia del negocio:"
+        android:textColor="@color/black"
+        android:textSize="26dp"
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="
+                                                                                                            La zapatería SHARIS se creó en el año 1992, es una mediana empresa manufacturera, de giro industrial
+ que está especializada en la fabricación y venta de calzado para dama, caballero y niño. El calzado es comercializado a pequeña y gran escala (menudeo, mayoreo), a través de varias sucursales que están situadas dentro de la Plaza Azul y Plaza Naranja en el municipio de San Mateo Atenco."
+        android:textColor="@color/blue"
+        android:textSize="21dp"
+        android:textStyle="normal"/>
+
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:text="
+                                                                        ¿Quienes somos? "
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:text="Somos una mediana empresa manufacturera, de giro industrial que está especializada en la fabricación y venta de calzado para dama, caballero y niño.                                                                  El calzado es comercializado a pequeña y gran escala (menudeo, mayoreo), a través de varias sucursales que están situadas dentro de la Plaza Azul y Plaza Naranja en el municipio de San Mateo Atenco"
+        android:textColor="@color/blue"
+        android:textSize="21dp"
+        android:textStyle="normal" />
+
+
+</FrameLayout>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/rosa"
+    tools:context=".ContactFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="!Contactanos y conoce más de nosotros!"
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:lineSpacingExtra="8sp"
+        android:text="
+
+
+                                                                                                            Nombre del negocio:'Zapateria SHARIS'.
+                                                                                                            Ubicación: Calle de la Rosa No.917, Barrio de San Lucas, San Mateo Atenco, México.Calle de la Rosa No.917, Barrio de San Lucas, San Mateo Atenco, México.
+ "
+        android:textColor="@color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:src="@drawable/ic_baseline_contact_phone_24"
+        android:layout_marginBottom="1dp"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        />
+
+
+    <TextView
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center"
+        android:text="Contacto: Reinaldo Alvarado Beltrán"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:textStyle="bold"
+
+        />
+
+    <ImageView
+        android:src="@drawable/ic_baseline_email_24"
+        android:layout_marginBottom="150dp"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        />
+
+    <TextView
+        android:layout_width="290dp"
+        android:layout_height="200dp"
+        android:layout_gravity="right|center"
+        android:text="Correo: sharis1992@gmail.com"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="0dp"
+
+        />
+
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="-550dp"
+        android:src="@drawable/sharis" />
+
+
+</FrameLayout>

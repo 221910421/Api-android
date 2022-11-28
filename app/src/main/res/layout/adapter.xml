@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view_friend"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardUseCompatPadding="true" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:paddingTop="20dp"
+            android:lines="2"
+            android:text="title" />
+
+        <ImageView
+            android:id="@+id/delete"
+            android:layout_width="51dp"
+            android:layout_height="59dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:lines="2"
+            android:paddingTop="20dp"
+            android:src="@drawable/ic_delete" />
+
+        <ImageView
+            android:id="@+id/edit"
+            android:layout_width="56dp"
+            android:layout_height="59dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="55dp"
+            android:lines="2"
+            android:paddingTop="20dp"
+            android:src="@drawable/ic_edit" />
+
+        <EditText
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:id = "@+id/id" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

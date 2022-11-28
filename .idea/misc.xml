@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/bg_color.xml" value="0.1" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1495" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_apartment_24.xml" value="0.1785" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_contact_phone_24.xml" value="0.1785" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1495" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1495" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1785" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1785" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/drawable/ic_baseline_phone_in_talk_24.xml" value="0.1495" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/activity_user.xml" value="0.18" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_contact.xml" value="0.18" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_contacto.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_informacion.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_perfil.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_plaza.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_plazas.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/fragment_presencia.xml" value="0.22" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/plaza.xml" value="0.153125" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/layout/plazas.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/menu/main_plaza.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/main/res/menu/plazas.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/proyecto_api_android/app/src/release/res/menu/plaza.xml" value="0.20416666666666666" />
+        <entry key="..\:/www/prueba_api/api_android_103/app/src/main/res/layout/activity_main.xml" value="0.15942028985507245" />
+        <entry key="..\:/www/prueba_api/api_android_103/app/src/main/res/layout/activity_register.xml" value="0.15942028985507245" />
+        <entry key="..\:/www/prueba_api/api_android_103/app/src/main/res/layout/activity_user.xml" value="0.15942028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
